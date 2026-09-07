@@ -17,3 +17,19 @@ En git commit är kod som du har sparat dina snaste ändringar varför de viktig
 
 
 
+
+
+
+
+Vad innebär samarbete med GitHub? Vad är pull requests, branches och merge? 
+Sammarbete med github görs när man jobbar i team då gör jag exempel repo och delar med dig teamet det så alla vi jobbar på samma projekt därför delar jag koderna och samt vi tittar på varandras feedback 
+pull request är när jag säger ett förslag och folk tittar på mitt förslag 
+merge är när man accepterar ett branschkod
+
+
+bransch är typ som ett papper där du testar kodda utan att påverka nuvarandet
+
+
+
+
+
